@@ -25,25 +25,15 @@ output window:
 
 
 
-
-
-
-![Screenshot (69)](https://user-images.githubusercontent.com/37376835/212242548-c426a379-ba7b-4054-9c2f-f209a227ec4e.png)
-
-
-
-
-![Screenshot (70)](https://user-images.githubusercontent.com/37376835/212242567-5e5ad9ac-d890-4444-975f-b2aecf5d6c56.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/37376835/212243275-d8c21934-5f0f-4911-b022-b2beed89a080.png)
 
 
 
 
+![Screenshot (75)](https://user-images.githubusercontent.com/37376835/212243300-0718713f-fb10-48e9-ae62-2994ffaeb617.png)
+
+![Screenshot (76)](https://user-images.githubusercontent.com/37376835/212243306-7fec2748-71e8-4ad7-b0af-55bdd420da9e.png)
 
 
-![Screenshot (71)](https://user-images.githubusercontent.com/37376835/212242589-f527b13d-08e5-4a01-b482-b44490a2875c.png)
 
 
-
-
-
-![Screenshot (72)](https://user-images.githubusercontent.com/37376835/212242600-5cd57f4a-1084-46b8-94b0-ad8e002d8e2c.png)
