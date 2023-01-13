@@ -1,0 +1,23 @@
+.container {
+  margin-top: 50px;
+}
+
+.div_main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div_main .card {
+  width: 40%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.demo {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg");
+  background-size: 100% 100%;
+}/*# sourceMappingURL=Crud.css.map */
